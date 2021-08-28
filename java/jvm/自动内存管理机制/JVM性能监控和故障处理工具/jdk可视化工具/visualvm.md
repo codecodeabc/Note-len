@@ -51,3 +51,9 @@
 
 
 https://mp.weixin.qq.com/s/SsJeaWz4EvZvQkYjc6J6jg
+
+插件离线安装
+
+https://blog.csdn.net/q258523454/article/details/103475425
+
+插件地址：https://visualvm.github.io/uc/8u131/updates.html
