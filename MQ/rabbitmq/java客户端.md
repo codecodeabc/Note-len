@@ -364,3 +364,13 @@ public class ConsumerAllDemo {
     }
 }
 ```
+
+
+
+
+
+**生产和消费流程**
+
+
+
+![img](https://p1-jj.byteimg.com/tos-cn-i-t2oaga2asx/gold-user-assets/2020/7/22/1737728b72852d77~tplv-t2oaga2asx-watermark.awebp)
