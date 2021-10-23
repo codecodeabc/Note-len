@@ -57,3 +57,9 @@ https://mp.weixin.qq.com/s/SsJeaWz4EvZvQkYjc6J6jg
 https://blog.csdn.net/q258523454/article/details/103475425
 
 插件地址：https://visualvm.github.io/uc/8u131/updates.html
+
+
+
+配置jstatd 查看远程gc  ,jstatd 端口需要映射出来
+
+https://blog.csdn.net/zhang355/article/details/103499502
