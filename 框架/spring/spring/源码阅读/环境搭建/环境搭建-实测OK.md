@@ -13,7 +13,7 @@ repositories {
 			maven { url "https://repo.spring.io/libs-spring-framework-build" }
 ```
 
-##### 3.在项目目录下执行命令
+##### 3.在项目目录下执行命令预编译
 
 ```bash
 # mac或Linux 系统
@@ -22,5 +22,5 @@ repositories {
 gradlew :spring-oxm:compileTestJava
 ```
 
-##### 4.导入idea即可
+##### 4.导入idea即可，gradle会自动下载依赖
 
