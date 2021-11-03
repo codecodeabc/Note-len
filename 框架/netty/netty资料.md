@@ -15,8 +15,15 @@ https://xiaozhuanlan.com/topic/3985146207
 客户端IP：
 
 ```java
-{
-   String ip =  ((InetSocketAddress)ctx.channel().remoteAddress()).getAddress().getHostAddress();
-}
+String ip =  ((InetSocketAddress)ctx.channel().remoteAddress()).getAddress().getHostAddress();
 ```
 
+
+
+案例大全
+
+https://github.com/waylau/netty-4-user-guide-demos
+
+
+
+https://github.com/fuzhengwei/itstack-demo-netty
