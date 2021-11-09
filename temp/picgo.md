@@ -6,6 +6,8 @@ github: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
 
 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
 
+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
+
 picgo图传配置
 
 ![image-20211014194259523](https://raw.githubusercontent.com/codecodeabc/Note-len/main/img/image-20211014194259523.png)
