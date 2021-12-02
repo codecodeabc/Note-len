@@ -1,1 +1,0 @@
-https://www.bookstack.cn/read/GradleInActionZh/README.md
